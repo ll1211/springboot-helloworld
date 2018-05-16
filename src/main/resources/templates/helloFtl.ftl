@@ -8,11 +8,6 @@
   </head>
   
   <body>
-    <h1>hello, thymeleaf
-    	<br/>
-    	this is my first thymeleaf page.
-    </h1>
-    <hr/>
-    欢迎, <span th:text="${name}"></span>
+    	欢迎, freemarker
   </body>
 </html>
